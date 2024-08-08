@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1>Hello there! 💻</h1>
 
-<!--
-**giangarof/giangarof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer with a great passion for the frontend world. <br/>
+My stack: MERN, MEVN.
 
-Here are some ideas to get you started:
+## What I'm doing now?: 
+Currently learning Java and Angular. <br/>
+Also, I'm studying to get some cloud certifications such AWS and Azure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## If you are a recruiter or hiring manager, 
+[Here is my resume](https://docs.google.com/document/d/1sgFrq7ZMyDcDQoPkCRIoJA3Kw9hYp1eCQT_9PA_n-mY/edit?usp=sharing)
+
+
+## Certifications
+AWS Cloud Practitioner - CLF C02
