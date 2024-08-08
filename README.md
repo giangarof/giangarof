@@ -3,7 +3,7 @@
 I'm a Software Developer with a great passion for the frontend world. <br/>
 My stack: MERN, MEVN.
 
-## What I'm doing now?: 
+## What I'm doing now? 
 Currently learning Java and Angular. <br/>
 Also, I'm studying to get some cloud certifications such AWS and Azure.
 
