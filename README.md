@@ -12,5 +12,5 @@ Also, I'm studying to get some cloud certifications such AWS and Azure.
 [My Website](https://www.giga-dev.com)
 
 ## Certifications
-AWS Cloud Practitioner - CLF C02
+AWS Cloud Practitioner - CLF C02 <br/>
 Azure fundamentals - AZ 900
