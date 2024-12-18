@@ -13,3 +13,4 @@ Also, I'm studying to get some cloud certifications such AWS and Azure.
 
 ## Certifications
 AWS Cloud Practitioner - CLF C02
+Azure fundamentals - AZ 900
