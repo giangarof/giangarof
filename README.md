@@ -1,6 +1,6 @@
 <h1>Hello there! 💻</h1>
 
-I'm a Software Developer with a great passion for the frontend world. <br/>
+I'm a Software Developer with expertise in frontend, backend, and cloud technologies. <br/>
 My stack: MERN, MEVN.
 
 ## What I'm doing now? 
@@ -14,3 +14,4 @@ Also, I'm studying to get some cloud certifications such AWS and Azure.
 ## Certifications
 AWS Cloud Practitioner - CLF C02 <br/>
 Azure fundamentals - AZ 900
+Azure fundamentals AI - AI 900
