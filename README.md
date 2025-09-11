@@ -1,6 +1,6 @@
 <h1>Hello there! 💻</h1>
 
-I'm a Software Developer with expertise in frontend, backend, and cloud technologies. <br/>
+I'm a Software Engineer with expertise in frontend, backend, data analysis, and cloud technologies. <br/>
 My stack: MERN, MEVN.
 
 ## What I'm doing now? 
