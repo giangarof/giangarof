@@ -1,17 +1,20 @@
-<h1>Hello there! 💻</h1>
+# Hello there! 💻
 
-I'm a Software Engineer with expertise in frontend, backend, data analysis, and cloud technologies. <br/>
-My stack: MERN, MEVN.
+I'm a Software Engineer with expertise in frontend and backend development, data analysis, and cloud technologies.
 
-## What I'm doing now? 
-Currently learning Java and Angular. <br/>
-Also, I'm studying to get some cloud certifications such AWS and Azure.
+My stack: MERN, MEVN, MEAN
+
+## What I'm learning now? 
+Next.js
 
 ## If you are a recruiter or hiring manager, 
-[Here is my resume](https://docs.google.com/document/d/1sgFrq7ZMyDcDQoPkCRIoJA3Kw9hYp1eCQT_9PA_n-mY/edit?usp=sharing) <br/>
-[My Website](https://www.giga-dev.com)
+#### [Here is my resume](https://docs.google.com/document/d/1sgFrq7ZMyDcDQoPkCRIoJA3Kw9hYp1eCQT_9PA_n-mY/edit?usp=sharing)
+#### [My Website](https://www.giga-dev.com)
 
 ## Certifications
-AWS Cloud Practitioner - CLF C02 <br/>
-Azure fundamentals - AZ 900 <br/>
-Azure fundamentals AI - AI 900 <br/>
+##### ITIL 4 Foundations
+##### WGU Frontend Development
+##### WGU Backend Development
+##### AWS Cloud Practitioner - CLF C02
+##### Azure fundamentals - AZ 900
+##### Azure fundamentals AI - AI 900
