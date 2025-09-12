@@ -12,9 +12,15 @@ Next.js
 #### [My Website](https://www.giga-dev.com)
 
 ## Certifications
+
 ITIL 4 Foundations
+
 WGU Frontend Development
+
 WGU Backend Development
+
 AWS Cloud Practitioner - CLF C02
+
 Azure fundamentals - AZ 900
+
 Azure fundamentals AI - AI 900
