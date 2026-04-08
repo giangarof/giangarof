@@ -6,7 +6,6 @@ My stack: MERN, MEVN, MEAN
 
 ## What I'm doing now? 
 * Working @ Living Stones Foundations
-* Learning c++
 
 ## If you are a recruiter or hiring manager, 
 #### [Here is my resume](https://docs.google.com/document/d/1sgFrq7ZMyDcDQoPkCRIoJA3Kw9hYp1eCQT_9PA_n-mY/edit?usp=sharing)
