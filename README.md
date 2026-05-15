@@ -1,5 +1,5 @@
 # Hello there! 💻
-I'm a Software Engineer with expertise in frontend and backend development, data analysis, and cloud technologies.
+I'm a Software Engineer with expertise in frontend and backend development.
 
 ## My stack
 MERN, MEVN, MEAN, Java/SpringBoot, Python/Flask, PHP/Laravel
