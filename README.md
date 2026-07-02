@@ -1,12 +1,8 @@
 # Hello there! 💻
-I'm a Software Engineer with expertise in frontend and backend development.
+I'm a Software Engineer, full-stack developer, and coder.
 
 ## My stack
-MERN, MEVN, MEAN, Java/SpringBoot, Python/Flask, PHP/Laravel
-
-## What I'm doing now? 
-- Working @ Living Stones Foundations
-- Pursuing a Master’s degree in Software Engineering 
+MERN, MEVN, MEAN, Java/SpringBoot, Python/Flask, PHP/Laravel 
 
 ## If you are a recruiter or hiring manager 
 - [Here is my resume](https://docs.google.com/document/d/1sgFrq7ZMyDcDQoPkCRIoJA3Kw9hYp1eCQT_9PA_n-mY/edit?usp=sharing)
