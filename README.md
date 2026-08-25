@@ -1,8 +1,8 @@
 # Hello there! 💻
-I'm a Software Engineer, full-stack developer, and coder.
+I'm a Software Engineer, Full-Stack Engineer/Developer.
 
 ## My stack
-MERN, MEVN, MEAN, Java/SpringBoot, Python/Flask, PHP/Laravel 
+MERN, MEVN, MEAN, Java/SpringBoot, Python/Flask/FastAPI, PHP/Laravel 
 
 ## If you are a recruiter or hiring manager 
 - [Here is my resume](https://docs.google.com/document/d/1sgFrq7ZMyDcDQoPkCRIoJA3Kw9hYp1eCQT_9PA_n-mY/edit?usp=sharing)
